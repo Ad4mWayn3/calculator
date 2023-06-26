@@ -1,2 +1,3 @@
-# This...
-This is some big stuff happening here
+# Hello!
+
+This is a terminal recreation of the calculator puzzle game for mobiles.
